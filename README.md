@@ -32,7 +32,7 @@ freeCodeCamp's Front End Libraries Projects
 ![Home Page](https://i.imgur.com/NgJVCi7.png)
 
 # Live Demo
-https://murilocsilva.github.io/quote-machine/
+https://murilocsilva.github.io/Markdown-Previewer-App/
 
 # Run
 ```bash
