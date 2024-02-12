@@ -29,7 +29,7 @@ freeCodeCamp's Front End Libraries Projects
 
 
 # Images
-![Home Page](https://i.imgur.com/XMG6O15.png)
+![Home Page](https://i.imgur.com/NgJVCi7.png)
 
 # Live Demo
 https://murilocsilva.github.io/quote-machine/
